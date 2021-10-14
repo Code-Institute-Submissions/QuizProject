@@ -245,3 +245,52 @@
     display: none;
   
 }
+
+#end-message{
+    background-color: rgb(9, 164, 253);
+    width: 90%;
+    box-sizing: border-box;
+    height: 90%;
+    position: absolute;
+    left: 5%;
+    top: 5%;
+    margin: 0 auto;
+    display: none;
+    color: rgb(73, 98, 100);
+    text-align: center;
+    border-radius: 10px;
+      
+ }
+
+ #end-message h1 {
+    font-size:  600%;
+    padding: 50px;
+  }
+
+  #end-message p{
+    font-size:  400%;
+}
+
+#end-button {
+    background-color: rgb(73, 98, 100);
+    position: absolute;
+    height: 10%;
+    width: 15%;
+    top: 80%;
+    right: 5%;
+    font-size: 200%;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+
+}
+
+#end-button:hover {
+    background-color: white;
+    color: rgb(9, 164, 253);
+    font-size: 220%;
+}
+  
