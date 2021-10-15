@@ -52,39 +52,44 @@
 }
 
 #main-body {
-    background-color: rgb(9, 164, 253);
+    background-color: white;
     margin: 0;
-    padding: 50px 0px 200px 0px;
     position: absolute;
 }
 
+#title {
+    font-size: 40px;
+    text-align: center;
+    width: 30%;
+    position: relative;
+    left: 35%;
+    top: 0%;
+    background-color: rgb(73, 98, 100);
+    border: 10px solid rgb(9, 164, 253);
+    border-radius: 10px;
+    color: rgb(9, 164, 253);
+    display: block;
+   
+}
+
 #main-h1 {
-    font-size: 180%;
+    font-size: 40px;
     margin: 20px;
     font-weight: 900;
    
 }
 
 #main-p {
-    margin: 30px 10px 10px 10px;
-    font-size: 120%;
-    padding: 20px;
+    margin: 30px 0px 10px 10px;
+    font-size: 20px;
+    font-weight: bold;
 
 }
 
-#title {
-    font-size: 300%;
-    text-align: center;
-    padding: 10px;
-    width: 20%;
-    position: relative;
-    left: 40%;
-    margin: 0px;
-    background-color: rgb(73, 98, 100);
-    border-radius: 10px;
-    color: white;
-    margin: 10px;
+label {
+    font-size: 20px;
 }
+
 
 #back {
     background-color: rgb(73, 98, 100);
@@ -92,7 +97,7 @@
      padding: 10px;
      left: 1%;
      top: 2%;
-     color: white;
+     color: rgb(9, 164, 253);
      width: 10%;
      text-align: center;
      border-radius: 5px;
@@ -104,23 +109,23 @@
  #back:hover {
     background-color: white;
     color: rgb(9, 164, 253);
+    border: 5px solid rgb(73, 98, 100);
     font-size: 220%;
 }
 
 #question1 {
     background-color: rgb(73, 98, 100);
-    width: 30%;
-    height: 300px;
-    font-size: 140%;
+    width: 33%;
+    height: 280px;
+    font-size: 25px;
     display: inline-block;
-    margin: 10px;
-    color: white;
-    border: 5px solid rgb(73, 98, 100);
+    color: rgb(9, 164, 253);
+    border: 10px solid rgb(9, 164, 253);
     box-sizing: border-box;
     text-align: center;
     border-radius: 10px;
     line-height: 30px;
-    left: 3%;
+    left: 0%;
     position: relative;
 
 
@@ -128,18 +133,17 @@
 
 #question2 {
     background-color: rgb(73, 98, 100);
-    width: 30%;
-    height: 300px;
-    font-size: 140%;
+    width: 33%;
+    height: 280px;
+    font-size: 25px;
     display: inline-block;
-    margin: 10px;
-    color: white;
-    border: 5px solid rgb(73, 98, 100);
+    color: rgb(9, 164, 253);
+    border: 10px solid rgb(9, 164, 253);
     box-sizing: border-box;
     text-align: center;
     border-radius: 10px;
     line-height: 30px;
-    left: 3%;
+    left: 0%;
     position: relative;
   
     
@@ -147,19 +151,17 @@
 
 #question3 {
     background-color: rgb(73, 98, 100);;
-    width: 30%;
-    height: 300px;
-    left: 66%;
-    font-size: 140%;
+    width: 33%;
+    height: 280px;
+    font-size: 25px;
     display: inline-block;
-    margin: 10px;
-    color: white;
-    border: 5px solid rgb(73, 98, 100);
+    color: rgb(9, 164, 253);
+    border: 10px solid rgb(9, 164, 253);
     box-sizing: border-box;
     text-align: center;
     border-radius: 10px;
     line-height: 30px;
-    left: 3%;
+    left: 0%;
     position: relative;
 
     
@@ -167,81 +169,80 @@
 
 #question4 {
     background-color: rgb(73, 98, 100);;
-    width: 30%;
-    height: 300px;
-    font-size: 140%;
+    width: 33%;
+    height: 280px;
+    font-size: 25px;
     display: inline-block;
-    margin: 10px;
-    color: white;
-    border: 5px solid rgb(73, 98, 100);
+    color: rgb(9, 164, 253);
+    border: 10px solid rgb(9, 164, 253);
     box-sizing: border-box;
     text-align: center;
     border-radius: 10px;
     line-height: 30px;
-    left: 3%;
+    left: 0%;
     position: relative;
 }
 
 #question5 {
     background-color: rgb(73, 98, 100);;
-    width: 30%;
-    height: 300px;
-    font-size: 140%;
+    width: 33%;
+    height: 280px;
+    font-size: 25px;
     display: inline-block;
-    margin: 10px;
-    color: white;
-    border: 5px solid rgb(73, 98, 100);
+    color: rgb(9, 164, 253);
+    border: 10px solid rgb(9, 164, 253);
     box-sizing: border-box;
     text-align: center;
     border-radius: 10px;
     line-height: 30px;
-    left: 3%;
+    left: 0%;
     position: relative;
     
 }
 
 #question6 {
     background-color: rgb(73, 98, 100);;
-    width: 30%;
-    height: 300px;
-    font-size: 140%;
+    width: 33%;
+    height: 280px;
+    font-size: 25px;
     display: inline-block;
-    margin: 10px;
-    color: white;
-    border: 5px solid rgb(73, 98, 100);
+    color: rgb(9, 164, 253);
+    border: 10px solid rgb(9, 164, 253);
     box-sizing: border-box;
     text-align: center;
     border-radius: 10px;
     line-height: 30px;
-    left: 3%;
+    left: 0%;
     position: relative;
 }
 
 #answered-container {
-    font-size: 300%;
+    font-size: 50px;
     width: 20%;
     background-color: rgb(73, 98, 100);
     position: absolute;
-    bottom: 5%;
+    bottom: 0%;
     left: 10%;
     text-align: center;
     padding: 10px;
     border-radius: 5px;
-    color: white;
+    color: rgb(9, 164, 253);
+    border: 10px solid rgb(9, 164, 253);
 
 }
 
 #score-container {
-    font-size: 300%;
+    font-size: 50px;
     width: 20%;
     background-color: rgb(73, 98, 100);
     position: absolute;
-    bottom: 5%;
+    bottom: 0%;
     right: 10%;
     text-align: center;
     padding: 10px;
     border-radius: 5px;
-    color: white;
+    color: rgb(9, 164, 253);
+    border: 10px solid rgb(9, 164, 253);
     
 }
 
@@ -341,6 +342,58 @@
         height: 20px;
     
     }
+
+    #question1 {
+        height: 230px;
+        width: 50%;
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    #question2 {
+        height: 230px;
+        width: 49%;
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    #question3 {
+        height: 230px;
+        width: 50%;
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    #question4 {
+        height: 230px;
+        width: 49%;
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    #question5 {
+        height: 230px;
+        width: 50%;
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    #question6 {
+        height: 230px;
+        width: 49%;
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    #answered-container {
+        font-size: 30px;
+    }
+
+    #score-container {
+        font-size: 30px;
+    }
+
+
 }
 
 @media only screen and (max-width:1000px) {
@@ -351,6 +404,32 @@
     #instructions li{
         font-size: 18px;
     }
+
+    #back {
+        font-size: 20px;
+    }
+
+    #title{
+        font-size: 20px;
+    }
+
+    #main-p {
+        font-size: 15px;
+    }
+
+    label {
+        font-size: 15px;
+    }
+
+    #answered-container {
+        font-size: 20px;
+    }
+
+    #score-container {
+        font-size: 20px;
+    }
+
+
 
 
 }
@@ -381,9 +460,10 @@
     #instructions li{
         font-size: 15px;
     }
+
 }
 
-@media only screen and (max-width:500px) {
+@media only screen and (max-width:650px) {
     #instructions ul{
         margin: 0;
         padding-left: 0%;
@@ -404,4 +484,94 @@
         padding: 5px;
     
     }
+
+    #title {
+        border: 5px solid rgb(9, 164, 253);
+    }
+
+    #back {
+        font-size: 15px;
+    }
+
+    #main-h1 {
+        font-size: 20px;
+        padding: 20px;
+        margin: 0%;
+    }
+
+    #main-p {
+        font-size: 12px;
+        padding: 10px;
+        margin: 0%;
+    }
+
+    label{
+        font-size: 12px;
+
+    }
+
+    #question1 {
+        height: 130px;
+        width: 100%;
+        line-height: 0px;
+        border: 5px solid rgb(9, 164, 253);
+    }
+
+    #question2 {
+        height: 130px;
+        width: 100%;
+        line-height: 0px;
+        border: 5px solid rgb(9, 164, 253);
+    }
+
+    #question3 {
+        height: 130px;
+        width: 100%;
+        line-height: 0px;
+        border: 5px solid rgb(9, 164, 253);
+    }
+
+    #question4 {
+        height: 130px;
+        width: 100%;
+        line-height: 0px;
+        border: 5px solid rgb(9, 164, 253);
+    }
+
+    #question5 {
+        height: 130px;
+        width: 100%;
+        line-height: 0px;
+        border: 5px solid rgb(9, 164, 253);
+
+    }
+
+    #question6 {
+        height: 130px;
+        width: 100%;
+        line-height: 0px;
+        border: 5px solid rgb(9, 164, 253);
+    }
+    
+    #answered-container{
+        font-size: 10px;
+        height: fit-content;
+        padding: 2px;
+        border: 1px solid rgb(9, 164, 253);
+        position: absolute;
+        top: 2%;
+        left: 75%;
+    }
+
+    #score-container{
+        font-size: 10px;
+        height: fit-content;
+        padding: 2px;
+        border: 1px solid rgb(9, 164, 253);
+        position: absolute;
+        top: 5%;
+        left: 75%;
+    }
+
+    
 }
