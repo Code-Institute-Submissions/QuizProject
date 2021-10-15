@@ -17,7 +17,7 @@ document.querySelectorAll('.correct').forEach(item => {
         endScore.innerHTML++;
         answered.innerHTML++;
 
-        if (answered.innerHTML ==  1) {
+        if (answered.innerHTML ==  6) {
             index.style.display = 'none';
             endMessage.style.display = 'inline-block';
             
@@ -42,7 +42,7 @@ document.querySelectorAll('.wrong').forEach(item => {
         answered.innerHTML++;
       
 
-        if (answered.innerHTML ==  1) {
+        if (answered.innerHTML ==  6) {
             index.style.display = 'none';
             endMessage.style.display = 'inline-block';
             answered.innerHTML++;

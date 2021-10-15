@@ -17,7 +17,7 @@
 
 #instructions h1 {
     color: white;
-    font-size: 60px;
+    font-size: 50px;
     margin: 30px 40px;
     text-align: center;
     
@@ -330,3 +330,78 @@
     font-size: 220%;
 }
   
+@media only screen and (max-width:1500px) {
+    #instructions li{
+        font-size: 24px;
+    }
+
+    #next {
+        font-size: 20px;
+        width: 10%;
+        height: 20px;
+    
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    #instructions h1{
+        font-size: 40px;
+    }
+
+    #instructions li{
+        font-size: 18px;
+    }
+
+
+}
+
+@media only screen and (max-width:700px) {
+    @media only screen and (max-width:700px) {
+        #instructions {
+            width: 70%;
+            position: absolute;
+            left: 15%;
+        }
+    
+        #instructions h1{
+            font-size: 35px;
+            text-align: center;
+            margin: 20px;
+        }
+    
+        #instructions li{
+            font-size: 15px;
+        }
+    }
+
+    #instructions h1{
+        font-size: 35px;
+    }
+
+    #instructions li{
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width:500px) {
+    #instructions ul{
+        margin: 0;
+        padding-left: 0%;
+    }
+
+    #instructions h1{
+        font-size: 25px;
+    }
+
+    #instructions li{
+        font-size: 14px;
+    }
+
+    #next {
+        font-size: 15px;
+        width: 15%;
+        height: 20px;
+        padding: 5px;
+    
+    }
+}
