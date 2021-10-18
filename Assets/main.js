@@ -45,9 +45,6 @@ document.querySelectorAll('.wrong').forEach(item => {
         if (answered.innerHTML ==  6) {
             index.style.display = 'none';
             endMessage.style.display = 'inline-block';
-            answered.innerHTML++;
-
-           
         }
 
         if(true) {
