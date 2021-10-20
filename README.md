@@ -17,6 +17,11 @@ The quiz is also responsive so it can be played on desktop and mobile.
 - When the user is ready to start the quiz they should press the 'Next' button.
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 89a7d9dc89b876b8180e810eb424fa6bcbd2e1de
 ## The Quiz
 
 ![Responsive image](Assets/Images/Quiz-Image.jpg)
@@ -27,14 +32,26 @@ The quiz is also responsive so it can be played on desktop and mobile.
 - When the last question is answered a message will appear.
 
 
+<<<<<<< HEAD
 ## End message 
+=======
+
+
+
+## End Message 
+>>>>>>> 89a7d9dc89b876b8180e810eb424fa6bcbd2e1de
 
 ![Responsive image](Assets/Images/EndResult-Image.jpg)
 
 - When the quiz is completed a message will appear that:
+<<<<<<< HEAD
 - Congratules the user for finishing.
 - Tells the user how many questions they got correct.
 
+=======
+- Congratulates the user for finishing.
+- Tells the user how many questions they got correct.
+>>>>>>> 89a7d9dc89b876b8180e810eb424fa6bcbd2e1de
 
 
 

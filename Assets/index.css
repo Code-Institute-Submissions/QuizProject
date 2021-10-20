@@ -1,3 +1,4 @@
+/* Instructions Page*/
 #instructions-body {
     background-color: rgb(9, 164, 253);
 }
@@ -50,6 +51,7 @@
     
 }
 
+/* Quiz Page */
 #main-body {
     background-color: white;
     margin: 0;
@@ -275,6 +277,7 @@ label {
   
 }
 
+/* End Message Page */
 #end-message{
     background-color: rgb(9, 164, 253);
     width: 90%;
@@ -330,6 +333,8 @@ label {
     font-size: 220%;
 }
   
+/* Media Queries */
+
 @media only screen and (max-width:1500px) {
     #instructions li{
         font-size: 24px;

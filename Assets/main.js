@@ -6,9 +6,12 @@ let answered = document.getElementById('answered');
 let index = document.getElementById('main-body');
 let endMessage = document.getElementById('end-message');
 let endScore = document.getElementById('end-score');
+
+// End score value
 endScore.value = endScore.innerHTML;
 endScore.innerHTML = 0;
 
+// Click Event Listener
 document.querySelectorAll('.correct').forEach(item => { 
     item.addEventListener('click', function(event) {
         correctmessage.innerHTML = 'Correct!';
@@ -35,6 +38,7 @@ document.querySelectorAll('.correct').forEach(item => {
   
 });
 
+// Click Event Listener
 document.querySelectorAll('.wrong').forEach(item => { 
     item.addEventListener('click', function(event) {
         incorrectmessage.innerHTML = 'Wrong Answer!';
