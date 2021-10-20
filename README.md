@@ -47,7 +47,7 @@ The quiz is also responsive so it can be played on desktop and mobile.
 - I can confirm that this page passes the css validator.
 - I can confirm that this page passes the html validator.
 
-##Bugs
+## Bugs
 
 ![Responsive image](Assets/Images/JSLint-image.jpg)
 
