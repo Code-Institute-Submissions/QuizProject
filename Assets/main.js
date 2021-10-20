@@ -1,3 +1,4 @@
+// Elements to be modified
 let incorrectmessage = document.getElementById('incorrect-message');
 let correctmessage = document.getElementById('correct-message');
 let score = document.getElementById('score');

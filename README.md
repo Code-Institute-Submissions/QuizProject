@@ -7,7 +7,7 @@ The quiz is also responsive so it can be played on desktop and mobile.
 
 # Features
 
-### Instructions Page
+## Instructions Page
 
 ![Responsive image](Assets/Images/Instructions-Image.jpg)
 
@@ -16,7 +16,8 @@ The quiz is also responsive so it can be played on desktop and mobile.
 - They will also let the user know that if an answer is incorrect the score will stay the same.
 - When the user is ready to start the quiz they should press the 'Next' button.
 
-### The Quiz
+
+## The Quiz
 
 ![Responsive image](Assets/Images/Quiz-Image.jpg)
 
@@ -25,9 +26,14 @@ The quiz is also responsive so it can be played on desktop and mobile.
 - The Score counter will increase by 1 if the answer is correct.
 - When the last question is answered a message will appear.
 
-### End message 
+
+## End message 
 
 ![Responsive image](Assets/Images/EndResult-Image.jpg)
+
+- When the quiz is completed a message will appear that:
+- Congratules the user for finishing.
+- Tells the user how many questions they got correct.
 
 
 
