@@ -1,6 +1,6 @@
 /* Instructions Page*/
 #instructions-body {
-    background-color: rgb(9, 164, 253);
+    background-color: rgb(0, 162, 255);
 }
 
 #instructions{
@@ -68,7 +68,7 @@
     background-color: rgb(73, 98, 100);
     border: 10px solid rgb(9, 164, 253);
     border-radius: 10px;
-    color: rgb(9, 164, 253);
+    color: white;
     display: block;
    
 }
@@ -98,7 +98,7 @@ label {
      padding: 10px;
      left: 1%;
      top: 2%;
-     color: rgb(9, 164, 253);
+     color: white;
      width: fit-content;
      text-align: center;
      border-radius: 5px;
@@ -120,7 +120,7 @@ label {
     height: 280px;
     font-size: 25px;
     display: inline-block;
-    color: rgb(9, 164, 253);
+    color: white;
     border: 10px solid rgb(9, 164, 253);
     box-sizing: border-box;
     text-align: center;
@@ -138,7 +138,7 @@ label {
     height: 280px;
     font-size: 25px;
     display: inline-block;
-    color: rgb(9, 164, 253);
+    color: white;
     border: 10px solid rgb(9, 164, 253);
     box-sizing: border-box;
     text-align: center;
@@ -156,7 +156,7 @@ label {
     height: 280px;
     font-size: 25px;
     display: inline-block;
-    color: rgb(9, 164, 253);
+    color: white;
     border: 10px solid rgb(9, 164, 253);
     box-sizing: border-box;
     text-align: center;
@@ -174,7 +174,7 @@ label {
     height: 280px;
     font-size: 25px;
     display: inline-block;
-    color: rgb(9, 164, 253);
+    color: white;
     border: 10px solid rgb(9, 164, 253);
     box-sizing: border-box;
     text-align: center;
@@ -190,7 +190,7 @@ label {
     height: 280px;
     font-size: 25px;
     display: inline-block;
-    color: rgb(9, 164, 253);
+    color: white;
     border: 10px solid rgb(9, 164, 253);
     box-sizing: border-box;
     text-align: center;
@@ -207,7 +207,7 @@ label {
     height: 280px;
     font-size: 25px;
     display: inline-block;
-    color: rgb(9, 164, 253);
+    color: white;
     border: 10px solid rgb(9, 164, 253);
     box-sizing: border-box;
     text-align: center;
@@ -227,7 +227,7 @@ label {
     text-align: center;
     padding: 10px;
     border-radius: 5px;
-    color: rgb(9, 164, 253);
+    color: white;
     border: 10px solid rgb(9, 164, 253);
 
 }
@@ -242,7 +242,7 @@ label {
     text-align: center;
     padding: 10px;
     border-radius: 5px;
-    color: rgb(9, 164, 253);
+    color: white;
     border: 10px solid rgb(9, 164, 253);
     
 }
@@ -630,7 +630,7 @@ label {
         font-size: 20px;
         padding: 5px;
         width: fit-content;
-        position: absolute9;
+        position: absolute;
         bottom: 2%;
     }
 
@@ -651,11 +651,4 @@ label {
         font-size:  40px;
     }
 
-
-
-
-
-
-
-    
 }
