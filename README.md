@@ -35,6 +35,23 @@ The quiz is also responsive so it can be played on desktop and mobile.
 - Congratules the user for finishing.
 - Tells the user how many questions they got correct.
 
+## Credits
+
+- I used pixlr X to crop images.
+
+## Testing
+
+![Responsive image](Assets/Images/lighthouse-test.jpg)
+
+- I tested this page on lighthouse and scored 100 on performance, accessibility and best practices.
+- I can confirm that this page passes the css validator.
+- I can confirm that this page passes the html validator.
+
+##Bugs
+
+![Responsive image](Assets/Images/JSLint-image.jpg)
+
+- I recieved these warnings on JSLint when testing, I was unsure how to fix them.
 
 
 
