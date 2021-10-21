@@ -391,10 +391,24 @@ label {
 
     #answered-container {
         font-size: 30px;
+        position: absolute;
+        top: 3%;
+        left: 15%;
+        height: fit-content;
+        width: fit-content;
+        border: 2px solid rgb(0, 162, 255);
+        padding: 5px;
     }
 
     #score-container {
         font-size: 30px;
+        position: absolute;
+        top: 3%;
+        right: 10%;
+        height: fit-content;
+        width: fit-content;
+        border: 2px solid rgb(0, 162, 255);
+        padding: 5px;
     }
 
     #correct-message{
